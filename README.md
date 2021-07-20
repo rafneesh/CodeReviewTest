@@ -4,8 +4,12 @@ This test is based on the exercise from this repository: https://github.com/Tarc
 
 ## Steps for creating the test
 
-1. Create a PR from branch ``feature/basket-informations`` to ``master`` and put your name in the title.
-2. Start a review with the comments you think need to be added
+All steps can be done directly from GitHub, but you can also do it cloning the repository in your local.
+
+1. Select branch ``feature/basket-informations``.
+2. Edit the file ``candidateName.txt`` with your name and create a **new branch**.
+3. Create a PR from this new branch to ``master`` and put your name in the title.
+4. Start a review with the comments you think need to be added.
 
 ### Info
 * There may be other candidates branches with PRs and comments. We cannot force that you don't check them, but we're more 
